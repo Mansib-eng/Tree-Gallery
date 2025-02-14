@@ -1,0 +1,13 @@
+.container {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  font-family: Arial, sans-serif;
+}
+.button {
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.button:hover {
+  background-color: #4a90e2;
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
