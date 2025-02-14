@@ -14,7 +14,7 @@ Tree Gallery is a web-based platform with two sections:
 - 📋 Organized tree details for easy access  
 
 ## 🏗️ Tech Stack
-- **Frontend**: Nextjs
-- **Backend**: Nodejs
+- **Frontend**: Next.js
+- **Backend**: Node.js
 - **Database**: MongoDB 
 
